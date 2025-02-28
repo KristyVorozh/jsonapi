@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import Header from "../../components/Header/Header";
 import { Wrapper } from "../../main.styled";
 import { Space, Spin, Typography } from "antd";

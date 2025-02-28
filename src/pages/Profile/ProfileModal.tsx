@@ -1,5 +1,5 @@
 import { Button, Modal, Typography } from "antd";
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 import { getAuthorInfo, getQuoteInfo } from "../../api/api.service";
 import { TAuthorData, TQuoteData } from "../../types/api.types";
 

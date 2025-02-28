@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { Wrapper } from "../../main.styled";
 import { Button, Space, Spin, Typography } from "antd";
