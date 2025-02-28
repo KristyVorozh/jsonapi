@@ -31,7 +31,7 @@ const SignInForm = () => {
         autoComplete="off"
         aria-autocomplete="none"
         layout="vertical"
-        style={{ width: 600 }}
+        style={{ width: "50vw" }}
       >
         <Form.Item
           style={{ marginBottom: 10 }}
