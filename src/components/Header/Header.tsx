@@ -16,7 +16,7 @@ const Header = () => {
       {!token && (
         <>
           <Button href="/">About us</Button>
-          <Button href="/signIn">Sign in</Button>
+          <Button href="/signin">Sign in</Button>
         </>
       )}
       {token && (
